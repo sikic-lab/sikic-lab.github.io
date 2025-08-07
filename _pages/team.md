@@ -52,9 +52,6 @@ members_row:
   github: https://github.com/retiro
 - image_path: /assets/images/ivan.png
   title: "Ivan Slijepčević (FER)"
-- image_path: /assets/images/tvrtko.png
-  title: "Tvrtko Brekalo (GIS)"
-  github: https://github.com/tbrekalo
 - image_path: /assets/images/wayne.jpeg
   title: "Wayne Yeo (GIS)"
   linkedin: https://www.linkedin.com/in/wwzyeo/
@@ -84,4 +81,7 @@ members_row2:
   title: "Andrej Dolmač (GIS)"
 - image_path: /assets/images/Enes.png
   title: "Enes Deumić (GIS)"
+- image_path: /assets/images/tvrtko.png
+  title: "Tvrtko Brekalo (GIS)"
+  github: https://github.com/tbrekalo
 ---
