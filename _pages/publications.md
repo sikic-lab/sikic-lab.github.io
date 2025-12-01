@@ -5,8 +5,12 @@ layout: publications
 
 header:
   overlay_image: /assets/images/homepage-banner.jpg
-  
 pubs_list:
+
+- title: F. Bosnić, M. Šikić Finding Hamiltonian cycles with graph neural networks
+  url: https://ieeexplore.ieee.org/abstract/document/10278690
+  - title: L. Vrček, X. Bresson, T. Laurent, M. Schmitz, M. Šikić Reconstruction of short genomic sequences with graph convolutional networks
+    url: https://ieeexplore.ieee.org/abstract/document/10159916
   - title: M. Šikić. "Facilitating genome structural variation analysis" Nature Methods, 1-2. 2023, Nature Publishing Group US
     url: https://www.nature.com/articles/s41592-023-01767-5
   - title: A.H. Lim, Z.J. Low, P.N. Shingate, J.H. Hong, S.C. Chong, C.C.Y. Ng, W. Liu, R. Vaser, M. Šikić, W.K.K. Sung, N. Nagarajan, P. Tan, B.T. Teh. "Genome assembly and chemogenomic profiling of National Flower of Singapore Papilionanthe Miss Joaquim ‘Agnes’ reveals metabolic pathways regulating floral …" Communications Biology, 5(1), 967. 2022, Nature Publishing Group UK
