@@ -6,9 +6,8 @@ layout: publications
 header:
   overlay_image: /assets/images/homepage-banner.jpg
 pubs_list:
-
-- title: F. Bosnić, M. Šikić Finding Hamiltonian cycles with graph neural networks
-  url: https://ieeexplore.ieee.org/abstract/document/10278690
+  - title: F. Bosnić, M. Šikić Finding Hamiltonian cycles with graph neural networks
+    url: https://ieeexplore.ieee.org/abstract/document/10278690
   - title: L. Vrček, X. Bresson, T. Laurent, M. Schmitz, M. Šikić Reconstruction of short genomic sequences with graph convolutional networks
     url: https://ieeexplore.ieee.org/abstract/document/10159916
   - title: M. Šikić. "Facilitating genome structural variation analysis" Nature Methods, 1-2. 2023, Nature Publishing Group US
