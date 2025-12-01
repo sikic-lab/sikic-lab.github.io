@@ -16,7 +16,7 @@ grid_row:
 - title: "GNNome"
   url: "https://github.com/lbcb-sci/GNNome/tree/main"
   excerpt: "GNNome is a framework for training graph neural networks to untangle assembly graphs obtained from OLC-based de novo genome assemblers."
-- title: "Herro"
+- title: "HERRO"
   url: "https://github.com/lbcb-sci/herro/tree/main"
   excerpt: "HERRO (Haplotype-aware ERRor cOrrection) is a highly accurate, haplotype-aware, deep-learning tool for error correction of Nanopore R10.4.1, Kit 14 reads"
 - title: "Rockfish"
