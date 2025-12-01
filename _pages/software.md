@@ -7,6 +7,9 @@ header:
   overlay_image: /assets/images/homepage-banner.jpg
   
 grid_row:
+- title: "PSAIA"
+  url: http://complex.zesoi.fer.hr/en/10-category-en-gb/tools-en/19-psaia-en
+  excerpt: PSAIA is a software tool  that integrates several algorithms for protein interactions and structure geometry analysis of protein complexes into a single application.
 - title: "RiNALMo"
   url: "https://github.com/lbcb-sci/RiNALMo"
   excerpt: "RiboNucleic Acid Language Model (RiNALMo) is an RNA language model that achieves state-of-the-art results on several downstream tasks."
