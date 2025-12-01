@@ -37,9 +37,6 @@ members_row:
 - image_path: /assets/images/team_sara.jpeg
   title: "Sara Bakić (GIS/NUS)"
   linkedin: https://www.linkedin.com/in/sara-bakic/
-- image_path: /assets/images//team_kresimir_f.jpg
-  title: "Krešimir Friganović (GIS)"
-  linkedin: https://www.linkedin.com/in/kre%C5%A1imir-friganovi%C4%87-65b479102
 - image_path: /assets/images/team_ffilip_tomas.jpg
   title: "Filip Tomas (FER)"
   linkedin: https://www.linkedin.com/in/filip-tomas-566335182/
@@ -50,11 +47,6 @@ members_row:
   title: "Tin Vlasic (GIS)"
   linkedin: www.linkedin.com/in/tin-vlasic
   github: https://github.com/retiro
-- image_path: /assets/images/ivan.png
-  title: "Ivan Slijepčević (FER)"
-- image_path: /assets/images/wayne.jpeg
-  title: "Wayne Yeo (GIS)"
-  linkedin: https://www.linkedin.com/in/wwzyeo/
 members_row2:
 - image_path: /assets/images/team_robert.jpg
   title: "Robert Vaser (PacBio)"
@@ -84,4 +76,13 @@ members_row2:
 - image_path: /assets/images/tvrtko.png
   title: "Tvrtko Brekalo (GIS)"
   github: https://github.com/tbrekalo
+- image_path: /assets/images/wayne.jpeg
+  title: "Wayne Yeo (GIS)"
+  linkedin: https://www.linkedin.com/in/wwzyeo/
+- image_path: /assets/images/ivan.png
+  title: "Ivan Slijepčević (FER)"
+- image_path: /assets/images//team_kresimir_f.jpg
+  title: "Krešimir Friganović (GIS)"
+  linkedin: https://www.linkedin.com/in/kre%C5%A1imir-friganovi%C4%87-65b479102
+  
 ---
