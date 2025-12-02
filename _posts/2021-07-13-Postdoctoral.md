@@ -5,12 +5,12 @@ categories:
 tags:
 ---
 
+The Genome Institute of Singapore (GIS) is the national flagship for genomic sciences, driving cutting-edge research at the intersection of biology, engineering, and medicine. This position is offered in the Laboratory of AI in Genomics, led by Prof. Mile Šikić, which uses advanced bioinformatics and deep learning approaches to develop next-generation models for genomic data analysis. We are group a of computer scientist with a mission to improve healthcare using advance deep learning models. Located in the heart of Singapore’s thriving biomedical hub, GIS offers a dynamic and collaborative environment, with close ties to world-class universities (NUS and NTU), pharmaceutical companies, and biotech start-ups. Joining our team means working on transformative projects with real-world impact, while benefiting from Singapore’s vibrant research ecosystem and strong support for innovation. <br /><br />
+
 <br /><br />
 <body>
 <b>Job Title: AI Scientist – Generative AI Models for the Creation of RNA-Based Drugs </b> <br />
 Contract Period : 01/03/2026 – 01/03/2028 (extensions possible) <br /><br />
-
-The Genome Institute of Singapore (GIS) is the national flagship for genomic sciences, driving cutting-edge research at the intersection of biology, engineering, and medicine. This position is offered in the Laboratory of AI in Genomics, led by Prof. Mile Šikić, which uses advanced bioinformatics and deep learning approaches to develop next-generation models for genomic data analysis. We are group a of computer scientist with a mission to improve healthcare using advance deep learning models. Located in the heart of Singapore’s thriving biomedical hub, GIS offers a dynamic and collaborative environment, with close ties to world-class universities (NUS and NTU), pharmaceutical companies, and biotech start-ups. Joining our team means working on transformative projects with real-world impact, while benefiting from Singapore’s vibrant research ecosystem and strong support for innovation. <br /><br />
 
 <b>Project background</b> <br />
 Messenger RNA (mRNA)-based therapeutics, including vaccines, represent a transformative class of drugs for infectious diseases and cancer immunotherapy. Their programmable nature allows rapid adaptation to evolving pathogens and personalized medicine, but effective design of mRNA molecules remains a key bottleneck. Current development relies on trial-and-error methods, leading to long timelines, high costs, and suboptimal outcomes. <br /><br />
@@ -56,8 +56,6 @@ We accept applications submitted via email directed to Prof. Šikić at <a href=
 <b>Job Title: Scientist – AI in Drug Discovery</b> <br />
 Contract Period: 01/03/2026 – 01/03/2028 (extensions possible) <br /><br />
 
-The Genome Institute of Singapore (GIS) is the national flagship for genomic sciences, driving cutting-edge research at the intersection of biology, engineering, and medicine. This position is offered in the Laboratory of AI in Genomics, led by Prof. Mile Šikić, which uses advanced bioinformatics and deep learning approaches to develop next-generation models for genomic data analysis. We are group a of computer scientist with a mission to improve healthcare using advance deep learning models. Located in the heart of Singapore’s thriving biomedical hub, GIS offers a dynamic and collaborative environment, with close ties to world-class universities (NUS and NTU), pharmaceutical companies, and biotech start-ups. Joining our team means working on transformative projects with real-world impact, while benefiting from Singapore’s vibrant research ecosystem and strong support for innovation. <br /><br />
-
 <b>Project background</b> <br />
 The AI in drug discovery (AIDD) project focuses on developing innovative tools and technologies to accelerate drug discovery, with a particular emphasis on unlocking new druggable spaces, such as RNA-targeting molecules, for example. With AI-driven strategies, AIDD aims to accelerate target identification to lead discovery while also advancing novel small molecules and other therapeutic modalities for next-generation drug development. <br /><br />
 
@@ -102,8 +100,6 @@ We accept applications submitted via email directed to Prof. Šikić at <a href=
 <body>
 <b> Job Title: Scientist – Cancer genome reconstruction </b> <br />
 Contract Period: 01/03/2026 – 01/03/2028 (extensions possible) <br /><br />
-
-The Genome Institute of Singapore (GIS) is the national flagship for genomic sciences, driving cutting-edge research at the intersection of biology, engineering, and medicine. This position is offered in the Laboratory of AI in Genomics, led by Prof. Mile Šikić, which uses advanced bioinformatics and deep learning approaches to develop next-generation models for genomic data analysis. We are group a of computer scientist with a mission to improve healthcare using advance deep learning models. Located in the heart of Singapore’s thriving biomedical hub, GIS offers a dynamic and collaborative environment, with close ties to world-class universities (NUS and NTU), pharmaceutical companies, and biotech start-ups. Joining our team means working on transformative projects with real-world impact, while benefiting from Singapore’s vibrant research ecosystem and strong support for innovation. <br /><br />
 
 <b>Project background</b> <br />
 De novo genome assembly has been one of the most challenging problems in genomics. However, with development of new long read sequencing technologies, new assemblers and manually curated high quality benchmarks including CHM13, HG002 and I002C assembling most of human chromosomes T2T has become a routine task. <br /><br />
