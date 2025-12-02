@@ -5,8 +5,20 @@ categories:
 tags:
 ---
 
-We offer a variety of exciting projects for possible interns.  
-You can find the list of possible internship projects below. <br />
+We offer a variety of exciting projects for possible undergraduate and graduate (PhD)
+Internships of 4 – 8 months. You can find the list of possible internship projects
+below.
+
+<strong>How to apply</strong><br />
+
+We look forward to receiving your application with the following documents:
+
+- Letter of Motivation
+- CV
+- Diplomas & Transcripts
+
+We accept applications submitted via email directed to Prof. Šikić at mile_sikic@a-star.edu.sg.
+<br /><br />
 
 <body>
 
