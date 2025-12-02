@@ -1,28 +1,137 @@
 ---
 title: "Postdoctoral Positions"
-date: 2023-03-23T15:34:30-04:00
+date: 2025-12-02
 categories:
 tags:
 ---
 
 <body>
-Job Title: Postdoctoral fellow <br />
-Contract Period : 01/01/2023 – 31/12/2025 (3 years) <br /><br />
-  
-<b>Job duties & Responsibilities:</b> <br />
+Job Title: AI Scientist – Generative AI Models for the Creation of RNA-Based Drugs <br />
+Contract Period : 01/03/2026 – 01/03/2028 (extensions possible) <br /><br />
 
-The project aims to develop a new generation of RNA therapeutics. The goal of the computational part of the project is to develop methods for predicting RNA tertiary structures and optimizing RNA stability. <br /><br />
+The Genome Institute of Singapore (GIS) is the national flagship for genomic sciences, driving cutting-edge research at the intersection of biology, engineering, and medicine. This position is offered in the Laboratory of AI in Genomics, led by Prof. Mile Šikić, which uses advanced bioinformatics and deep learning approaches to develop next-generation models for genomic data analysis. We are group a of computer scientist with a mission to improve healthcare using advance deep learning models. Located in the heart of Singapore’s thriving biomedical hub, GIS offers a dynamic and collaborative environment, with close ties to world-class universities (NUS and NTU), pharmaceutical companies, and biotech start-ups. Joining our team means working on transformative projects with real-world impact, while benefiting from Singapore’s vibrant research ecosystem and strong support for innovation. <br /><br />
 
-The recent breakthrough of AlphaFold2 in accurately predicting protein structures paves the way for applying deep learning techniques to grand challenges in biology. However, it is critical to emphasize that learning RNA tertiary structures is significantly more challenging than protein structures. Only 15,000 chains in 5,000 RNA structures are present in the PDB, 30-fold less than the 150,000 training proteins. The lack of experimental training data requires us to: (1) augment the training set with new experimental data, (2) design more theoretically expressive learning techniques than AlphaFold2, which rely on a standard supervised learning framework and a classical Transformer-based architecture. <br /><br />
+<b>Project background</b> <br />
+Messenger RNA (mRNA)-based therapeutics, including vaccines, represent a transformative class of drugs for infectious diseases and cancer immunotherapy. Their programmable nature allows rapid adaptation to evolving pathogens and personalized medicine, but effective design of mRNA molecules remains a key bottleneck. Current development relies on trial-and-error methods, leading to long timelines, high costs, and suboptimal outcomes. <br /><br />
 
-In this role, one will be part of a multi-disciplinary team consisting of computer scientists, biologists, and bioinformaticians. Duties include primarily developing new AI methods for RNA structure predictions. <br /><br />
+This project aims to develop an agent-based generative AI system to design both linear and circular mRNA molecules. By unifying the design process into a data-driven, adaptive pipeline, the system will optimize vaccine stability, minimize unwanted immune responses, and accelerate early-stage research and development from months to hours. The outcome will be a robust, scalable platform for creating effective mRNA vaccines for infectious diseases, cancer, and beyond. <br /><br />
 
-<b>Requirements:</b> <br />
-- PhD in Computer Science, Math, or a related discipline <br />
-- Strong programming skills (i.e. C/C++, Rust, Python) <br />
-- Knowledge of modern supervised, unsupervised and/or reinforcement learning methods <br />
-- Active knowledge of PyTorch, Tensorflow or similar deep-learning frameworks <br />
-- Excellent communication skills in written and spoken English <br />
-<body/>
-  <br /> 
-  
+<b>Job description</b> <br />
+We are looking for a highly motivated postdoctoral researcher to: <br />
+- Develop generative AI models for mRNA optimization <br />
+- Develop foundation models for mRNA assessment <br />
+- Run large-scale pretraining on high-performance computing infrastructure <br />
+- Perform model finetuning and hyperparameter optimization <br />
+- Evaluate models on experimental data <br /><br />
+
+<b>Profile</b> <br />
+We welcome applications from candidates with: <br />
+- A PhD in computer science, computational biology, applied mathematics, physics, or a related field <br />
+- Proven experience in deep learning research and development <br />
+- Publication record at top-tier AI conferences (e.g., NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, etc) <br />
+- Strong experience in Python programming and solid software engineering skills <br />
+- Experience with biomolecules and/or high-performance computing is a plus <br />
+- Interest in biology, biomolecules, or genomics (prior expertise not required) <br />
+- A structured, independent, proactive and collaborative working style <br /><br />
+
+<b>We offer</b> <br />
+- A fully funded position with an internationally competitive salary <br />
+- Professional development opportunities, including support for grant applications and participation in conferences and workshops <br />
+- Access to state-of-the-art research infrastructure, including NSCC’s high-performance computing clusters <br />
+- A dynamic, interdisciplinary, and collaborative research environment <br />
+- The position is initially offered for one year, with the possibility of renewal <br /><br />
+
+<b>How to apply</b> <br />
+We look forward to receiving your application with the following documents: <br />
+- Letter of Motivation <br />
+- CV <br />
+- Diplomas & Transcripts <br /><br />
+
+We accept applications submitted via email directed to Prof. Šikić at <a href="mailto:mile_sikic@a-star.edu.sg">mile_sikic@a-star.edu.sg</a>. <br />
+</body>
+
+<body>
+Job Title: Scientist – AI in Drug Discovery <br />
+Contract Period: 01/03/2026 – 01/03/2028 (extensions possible) <br /><br />
+
+The Genome Institute of Singapore (GIS) is the national flagship for genomic sciences, driving cutting-edge research at the intersection of biology, engineering, and medicine. This position is offered in the Laboratory of AI in Genomics, led by Prof. Mile Šikić, which uses advanced bioinformatics and deep learning approaches to develop next-generation models for genomic data analysis. We are group a of computer scientist with a mission to improve healthcare using advance deep learning models. Located in the heart of Singapore’s thriving biomedical hub, GIS offers a dynamic and collaborative environment, with close ties to world-class universities (NUS and NTU), pharmaceutical companies, and biotech start-ups. Joining our team means working on transformative projects with real-world impact, while benefiting from Singapore’s vibrant research ecosystem and strong support for innovation. <br /><br />
+
+<b>Project background</b> <br />
+The AI in drug discovery (AIDD) project focuses on developing innovative tools and technologies to accelerate drug discovery, with a particular emphasis on unlocking new druggable spaces, such as RNA-targeting molecules, for example. With AI-driven strategies, AIDD aims to accelerate target identification to lead discovery while also advancing novel small molecules and other therapeutic modalities for next-generation drug development. <br /><br />
+
+This project aims to develop novel deep learning methods for RNA tertiary structure prediction, inspired by the breakthroughs of AlphaFold in protein structure modeling. We plan to design a robust framework that incorporates RiNALMo, our state-of-the-art RNA language model [ Penić et al., 2025 ]. Additionally, we will investigate the integration of chemical reactivity measurements to enhance accuracy. Such data, closely tied to RNA’s 3D structure, offers valuable information on secondary structure elements, base-pairing, and conformational flexibility. By leveraging these inputs, our approach seeks to bridge the gap between computational and experimental methods, with significant implications for RNA drug discovery. <br /><br />
+
+<b>Job description</b> <br />
+We are looking for a highly motivated postdoctoral researcher to: <br />
+- Develop deep learning-based models for RNA structure prediction <br />
+- Analyze chemical reactivity experimental data <br />
+- Incorporate chemical reactivity experimental data into the structure prediction pipeline <br />
+- Run large-scale training on high-performance computing infrastructure <br />
+- Perform model finetuning and hyperparameter optimization <br />
+- Evaluate models on experimental data <br /><br />
+
+<b>Profile</b> <br />
+We welcome applications from candidates with: <br />
+- A PhD in computer science, computational biology, computational chemistry, applied mathematics, physics, or a related field <br />
+- Proven experience in deep learning research and development <br />
+- Publication record at top-tier AI conferences (e.g., NeurIPS, ICLR, ICML, CVPR, ICCV, ACL, etc) <br />
+- Strong experience in Python programming and solid software engineering skills <br />
+- Experience with biomolecules and/or high-performance computing is a plus <br />
+- Interest in biology, biomolecules, or genomics (prior expertise not required) <br />
+- A structured, independent, proactive and collaborative working style <br /><br />
+
+<b>We offer</b> <br />
+- A fully funded position with an internationally competitive salary <br />
+- Professional development opportunities, including support for grant applications and participation in conferences and workshops <br />
+- Access to state-of-the-art research infrastructure, including NSCC’s high-performance computing clusters <br />
+- A dynamic, interdisciplinary, and collaborative research environment <br />
+- The position is initially offered for one year, with the possibility of renewal for up to three years <br /><br />
+
+<b>How to apply</b> <br />
+We look forward to receiving your application with the following documents: <br />
+- Letter of Motivation <br />
+- CV <br />
+- Diplomas & Transcripts <br /><br />
+
+We accept applications submitted via email directed to Prof. Šikić at <a href="mailto:mile_sikic@a-star.edu.sg">mile_sikic@a-star.edu.sg</a>. <br />
+</body>
+
+<body>
+Job Title: Scientist – Cancer genome reconstruction <br />
+Contract Period: 01/03/2026 – 01/03/2028 (extensions possible) <br /><br />
+
+The Genome Institute of Singapore (GIS) is the national flagship for genomic sciences, driving cutting-edge research at the intersection of biology, engineering, and medicine. This position is offered in the Laboratory of AI in Genomics, led by Prof. Mile Šikić, which uses advanced bioinformatics and deep learning approaches to develop next-generation models for genomic data analysis. We are group a of computer scientist with a mission to improve healthcare using advance deep learning models. Located in the heart of Singapore’s thriving biomedical hub, GIS offers a dynamic and collaborative environment, with close ties to world-class universities (NUS and NTU), pharmaceutical companies, and biotech start-ups. Joining our team means working on transformative projects with real-world impact, while benefiting from Singapore’s vibrant research ecosystem and strong support for innovation. <br /><br />
+
+<b>Project background</b> <br />
+De novo genome assembly has been one of the most challenging problems in genomics. However, with development of new long read sequencing technologies, new assemblers and manually curated high quality benchmarks including CHM13, HG002 and I002C assembling most of human chromosomes T2T has become a routine task. <br /><br />
+
+This project will focus on a more challenging task, assembling of human cancer genomes which are especially difficult due to cancer genome heterogeneity. Using the fact that we can reconstruct normal tissue genomes routinely we aim to reconstruct cancer genomes using a combination of traditional algorithms and AI. <br /><br />
+
+<b>Job description</b> <br />
+We are looking for a highly motivated postdoctoral researcher to: <br />
+- Develop overlap between reads sequences from both cancer and normal genomes <br />
+- Simplify cancer genome graphs keeping a both normal genome haplotypes and subclonal haplotypes in a graph <br /><br />
+
+<b>Profile</b> <br />
+We welcome applications from candidates with: <br />
+- A PhD in computer science, applied mathematics, a related field <br />
+- Proven experience in algorithms on genome sequences and graphs <br />
+- Publication record at top-tier journals or bioinformatics conferences (i.e. Recomb, ISMB, EECB and Genome Informatics) <br />
+- Strong experience in C/C++/Rust and Python programming and solid software engineering skills <br />
+- A structured, independent, proactive and collaborative working style <br /><br />
+
+<b>We offer</b> <br />
+- A fully funded position with an internationally competitive salary <br />
+- Professional development opportunities, including support for grant applications and participation in conferences and workshops <br />
+- Access to state-of-the-art research infrastructure, including NSCC’s high-performance computing clusters <br />
+- A dynamic, interdisciplinary, and collaborative research environment <br />
+- The position is initially offered for two years, with the possibility of renewal <br /><br />
+
+<b>How to apply</b> <br />
+We look forward to receiving your application with the following documents: <br />
+- Letter of Motivation <br />
+- CV <br />
+- Diplomas & Transcripts <br /><br />
+
+We accept applications submitted via email directed to Prof. Šikić at <a href="mailto:mile_sikic@a-star.edu.sg">mile_sikic@a-star.edu.sg</a>. <br />
+</body>
