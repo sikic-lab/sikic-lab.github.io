@@ -6,7 +6,6 @@ tags:
 ---
 
 We offer a variety of exciting projects for possible interns.  
-Interns can apply for [SIGPA](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) to get a monthly funding of 2000 SGD.  
 You can find the list of possible internship projects below. <br />
 
 <body>
