@@ -18,6 +18,8 @@ We accept applications submitted via email directed to Prof. Šikić at <a href=
 </body>
 
 <body>
+
+<br /><br />
 <b>Project A: From Events to Nucleotides: Improved Segmentation Leads to Accurate Lightweight Basecallers</b> <br /><br />
 
 Nanopore sequencing is a cutting-edge technology that enables real-time analysis of nucleic acids by measuring fluctuations in electrical current caused by the molecule's translocation through the nanopore. The output of the nanopore sequencing, a one-dimensional signal of electrical current measurements taken in the pore carries information on the corresponding nucleic acid sequence and additional information about the state of the sequenced sample. <br /><br />
@@ -39,6 +41,8 @@ Ultimately, this approach could revive and advance event-based basecalling, pavi
 </body>
 
 <body>
+
+<br /><br />
 <b>Project B: Towards a Universal Protein–RNA Foundation Model: Generating Sequences and Understanding Functions, Structures, and Interactions (ProtRNA-FM)</b> <br /><br />
 
 Ribonucleic acid (RNA) plays a variety of crucial roles in fundamental biological processes, from gene regulation and catalysis to serving as structural scaffolds in complex cellular machineries. Recently, RNA has also emerged as a promising drug target, underscoring the need to advance our understanding of its structures, functions, and interactions. Over the years, sequencing technologies have generated vast amounts of RNA and protein sequence data, much of which remains unlabeled, yet likely encodes critical biological insights. <br /><br />
@@ -95,6 +99,8 @@ This project has the potential to contribute toward the development of next-gene
 </body>
 
 <body>
+
+<br /><br />
 <b>Project C: Improving Deep Learning Architectures for HERRO Error Correction</b> <br /><br />
 
 HERRO is a computational method that uses deep learning and haplotype information to improve the accuracy of long-read sequencing data (Oxford Nanopore reads). By correcting common sequencing errors, HERRO strengthens the reliability of downstream tasks such as genome assembly. The project is an excellent opportunity to work at the intersection of genomics and machine learning, with a strong focus on practical impact. <br /><br />
@@ -126,6 +132,8 @@ As part of this internship, the student will: <br />
 </body>
 
 <body>
+
+<br /><br />
 <b>Project D: Development of a Cancer Genome Foundation Model</b> <br /><br />
 
 Compared with healthy genomes, cancer genomes are qualitatively different: they accumulate point mutations, copy-number shifts, structural rearrangements, and epigenetic rewiring. Yet most existing genome foundation models are trained on healthy or single-reference sequences, use a four-letter DNA alphabet, and operate on short windows. Thus, such models can miss long-range regulatory interactions and ignore methylation or chromatin accessibility signals that are central in cancer. This leaves a gap: we need models that read sequence and epigenome together, at scales large enough to span domains and rearrangements, while retaining single-nucleotide detail. <br /><br />
