@@ -1,143 +1,203 @@
 ---
 title: "Internship Positions"
-date: 2023-03-23T15:34:30-04:00
+date: 2025-12-02
 categories:
 tags:
 ---
-We offer a variety of exciting projects for possible interns.
-Interns can apply for [SIGPA](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) to get a monthly funding of 2000 SGD.
-You can find the list possible internship projects below. <br />
-<body> 
-<h2>Project 1: AI methods for improving DNA sequencing</h2>
-Genome sequencing assembling is one of the most essential tasks in genomics. High accuracy sequences help us find relevant information about the sequenced organism (i.e., human or virus) which is especially important for clinical use. 
-This project will focus on one, important sub-task of genome sequencing, named basecalling. As the DNA strand passes through the nanopore, a few nucleobases create a characteristic current disruption in the pore. A sequencing device continuously measures electrical current and stores it for sequence decoding. The process of sequence decoding from the measured current is called basecalling.<br /><br />
-  
-The focus of this project will be on developing high accuracy basecaller using deep learning methods. The student will get to know the practical approaches to data preparation and deep learning (such as attention networks and transformers). The solution will be implemented using Python and PyTorch library. The student will be encouraged to publish his application on GitHub as an open-source project.<br /><br />
-  
-Requirements:<br />
-- Motivation<br />
-- Willingness to learn by doing<br />
-- Basic programming skills <br />
-- Prior knowledge in biology is not required<br />
-<br />
-Preferable skills (not required):<br />
-- Python<br />
-- Basic knowledge in probability and statistics, linear algebra and information theory<br />
-- Knowledge of PyTorch or another DL framework <br />
-- Basic knowledge in the machine and deep learning methods<br />
+
+We offer a variety of exciting projects for possible interns.  
+Interns can apply for [SIGPA](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga) to get a monthly funding of 2000 SGD.  
+You can find the list of possible internship projects below. <br />
+
+<body>
+
+<h2>Project A: From Events to Nucleotides: Improved Segmentation Leads to Accurate Lightweight Basecallers</h2>
+
+Nanopore sequencing is a cutting-edge technology that enables real-time analysis of nucleic acids by measuring fluctuations in electrical current caused by the molecule's translocation through the nanopore. The output of the nanopore sequencing, a one-dimensional signal of electrical current measurements taken in the pore carries information on the corresponding nucleic acid sequence and additional information about the state of the sequenced sample.<br /><br />
+
+The raw signal is converted into a nucleotide sequence through a process known as basecalling. Early basecallers, such as Scrappie, used an event-based approach in which the signal was first segmented into discrete units, or events, each representing the passage of a single nucleotide. These events were then translated into a nucleotide sequence. The segmentation relied on a rolling-window statistical method that, due to a low signal-to-noise ratio, often under- or over-segmented the signal, resulting in high basecalling error rates.<br /><br />
+
+To overcome these limitations, modern basecallers no longer depend on explicit signal segmentation. Instead, they employ large-scale deep neural networks that process raw signals directly to produce accurate basecalls. While this approach has greatly improved accuracy, it has also increased computational complexity, recent “super-accurate” basecallers are based on Transformer architectures with roughly 80 million parameters.<br /><br />
+
+Recent efforts in improving segmentation of nanopore signals, namely Campolina, has demonstrated significant gains in real-time signal processing quality. These advances raise the question of whether high-quality segmentation could also enhance event-based basecalling, potentially enabling a new class of lightweight yet accurate basecallers.<br /><br />
+
+This project aims to explore the potential for developing a new deep learning-based basecalling framework that would leverage high-quality segmentation based on the Campolina architecture and output accurate basecalls while reducing computational requirements compared with current large-scale deep neural architectures.<br /><br />
+
+Ultimately, this approach could revive and advance event-based basecalling, paving the way for the next generation of efficient, accurate basecallers, an essential component of nanopore sequencing technology.<br /><br />
+
+<strong>Expected outcomes:</strong><br />
+- Deep understanding of basecalling problem, existing architectures, and prominent approaches.  
+- Hands-on experience in developing and evaluating a deep learning-based framework for event-based basecalling.  
+- Skills in preprocessing genomic data, model design, basecalling evaluation and error interpretation in a genomics context.<br /><br />
+
 </body>
 
-<body>
-<h2>Project 2: Using NLP and graph neural networks to determine the DNA sequence</h2>
-One of the main challenges in genomics is the determination of genome sequence using sequenced DNA fragments called reads. The standard procedure is the construction of a graph from overlapping reads and finding a path through it. The path represents the final sequence. Since there are no exact algorithms, which could accomplish this problem in a reasonable amount of time, it is necessary to use heuristic approaches. An intern would try several deep learning methods and reinforcement learning algorithms for graph simplifications.<br /><br />
-  
-The goal of this project would be to develop deep learning models for locating critical patterns in graphs. The idea is learn in the space of algorithms. Initial models will be based on Message Passing Neural Networks. Still, at later stages of the project, other approaches will be tried out as well – such as reinforcement learning methods similar to those used in Alpha Zero and using NLP models (i.e. GPT3 or BERT) to learn genome sequence.<br /><br />
-
-  Requirements:<br />
-  -	Motivation<br />
-  -	Willingness to learn by doing<br />
-  -	Basic programming skills<br />
-  -	Prior knowledge in biology is not required<br />
-    <br />
-  Preferable skills (not required):<br />
-  -	Python<br />
-  -	Basic knowledge in probability and statistics, linear algebra and information theory<br />
-  -	Knowledge of PyTorch or another DL framework<br />
-  -	Basic knowledge in the machine and deep learning methods<br /><br />
-  </body>
 
 <body>
-  <h2>Project 3: Deep Learning methods for epigenomics</h2>
-Modification of DNA nucleotides is an important way to control the function of the genome through the regulation of gene expression. DNA modifications contribute to diseases such as cancer where it is used as a biomarker, and it has been found to have influence on aging, demonstrating the value of epigenomics data to understand the profile of each individual patient.<br /><br />
-  
-The goal of this project would be to develop deep learning models for the detection of the modification from sequencing data. Initial models would be based on convolutional neural networks. Still, at later stages of the project, other approaches would be tried out as well – such as attention models that recently made a breakthrough in the field of natural language processing and proved to be more successful in language tasks then recurrent neural networks.<br /><br />
 
-  Requirements:<br />
-  -	Motivation<br />
-  -	Willingness to learn by doing<br />
-  -	Basic programming skills<br />
-  -	Prior knowledge in biology is not required<br />
-    <br />
-  Preferable skills (not required):<br />
-  -	Python<br />
-  -	Basic knowledge in probability and statistics, linear algebra and information theory<br />
-  -	Knowledge of PyTorch or another DL framework<br />
-  -	Basic knowledge in the machine and deep learning methods<br /><br />
+<h2>Project B: Towards a Universal Protein–RNA Foundation Model: Generating Sequences and Understanding Functions, Structures, and Interactions (ProtRNA-FM)</h2>
+
+Ribonucleic acid (RNA) plays a variety of crucial roles in fundamental biological processes, from gene regulation and catalysis to serving as structural scaffolds in complex cellular machineries. Recently, RNA has also emerged as a promising drug target, underscoring the need to advance our understanding of its structures, functions, and interactions. Over the years, sequencing technologies have generated vast amounts of RNA and protein sequence data, much of which remains unlabeled, yet likely encodes critical biological insights.<br /><br />
+
+At the same time, proteins remain at the core of virtually all cellular processes, and their interactions with RNA are central to gene expression regulation, RNA modification, and other essential pathways. The capacity to model RNA and proteins jointly, and predict their interactions from sequences alone, remains a significant challenge in computational biology.<br /><br />
+
+This project aims to develop a unified protein and RNA foundation model, ProtRNA-FM, capable of learning generalizable representations of RNA and protein sequences, predicting their properties, and modeling RNA–protein interactions. Leveraging recent advances in deep learning and Transformer-based architectures, the project will explore novel multi-modal modeling strategies to jointly embed RNA and protein sequences in a shared latent space. This will allow the model to understand sequence patterns relevant to RNA and protein functions, as well as capture features governing their interactions.<br /><br />
+
+This project has the potential to contribute toward the development of next-generation foundation models in molecular biology, enabling a deeper understanding of RNA and proteins and opening new avenues for therapeutic discovery.<br /><br />
+
+<strong>Training duration:</strong><br />
+- 4 or 8 months<br /><br />
+
+<strong>Training plan and objectives:</strong><br />
+
+<strong>Literature Review</strong><br />
+- Conduct a review of protein and RNA language models.  
+- Study sequence-based RNA–protein interaction prediction methods.  
+- Explore Transformer-based architectures for biological sequences (e.g., LLaDA).<br /><br />
+
+<strong>Dataset Collection and Preparation</strong><br />
+- Curate RNA data (RNAcentral).  
+- Curate protein sequences (UniProt).  
+- Collect RNA–protein interaction datasets.  
+- Preprocess datasets for training.  
+- Implement dataset tokenization and data loaders.<br /><br />
+
+<strong>Model Development</strong><br />
+- Integrate existing foundation models (RiNALMo, ESM2) into a unified protein–RNA foundation model.  
+- Implement diffusion language modeling for RNA and protein sequences.  
+- Begin with smaller models (~100M parameters).<br /><br />
+
+<strong>Training and Optimization</strong><br />
+- Train initial small-scale models.  
+- Perform early evaluations:  
+  - Intrinsic tasks: perplexity, masked token recovery.  
+  - Extrinsic tasks: protein/RNA classification, protein/RNA function prediction.  
+- Monitor cross-modality generalization.  
+- Scale up to large joint model training.  
+- Optimize hyperparameters for performance and efficiency.<br /><br />
+
+<strong>Evaluation and Benchmarking</strong><br />
+- Benchmark on RNA–protein interaction datasets.  
+- Benchmark separately on RNA and protein structure/function datasets.  
+- Compare against existing baselines (RiNALMo, ESM2).  
+- Visualize and interpret attention maps and embeddings.  
+- Evaluate RNA and protein sequence generation capabilities.<br /><br />
+
+<strong>Reporting & Refinement</strong><br />
+- Refine models and conduct robustness checks.  
+- Draft technical report and/or manuscript.  
+- Prepare presentations for lab and conference submissions.  
+- Fully document code and pipelines.<br /><br />
+
 </body>
 
-<body>
-  <h2>Project 4: Algorithms for determination of the content of the maternally and paternally-derived chromosomes</h2>
-Genome assembly cannot be feasible without algorithms and methods integrated into tools called de novo assemblers which reconstruct genomes from short sequenced DNA fragments in a manner similar to puzzle solving. The “power horse” of de novo assembly are algorithms on strings and graphs. The majority of de novo assemblers were designed on smaller genomes and work well on larger eukaryotic organisms, but most of them create haploid representations of the genome regardless of the ploidy (they collapse information from their parents). The separation of genetic material from each parent results in knowledge of the complete genotype – all variant forms of all genes. Therefore, different methods should be applied in the assembly process to achieve better reconstructions.<br /><br />
 
-  The main goal of this thesis is to adapt Raven, a de novo assembler for long erroneous sequencing data, for diploid organisms sequenced. Raven is a tool produced by our group and now is one of the most popular de novo assemblers.<br /><br />
-  
-Requirements:<br />
-  -	Motivation<br />
-  -	Willingness to learn by doing<br />
-  -	Intermediate C/C++ skills<br />
-  -	Knowledge of algorithms and data structures<br />
-  -	Prior knowledge in biology is not required<br />
-    <br />
-  Preferable skills (not required):<br />
-  -	Software engineering skill<br />
-  -	Parallel programming<br /><br />
+<body>
+
+<h2>Project C: Improving Deep Learning Architectures for HERRO Error Correction</h2>
+
+HERRO is a computational method that uses deep learning and haplotype information to improve the accuracy of long-read sequencing data (Oxford Nanopore reads). By correcting common sequencing errors, HERRO strengthens the reliability of downstream tasks such as genome assembly. The project is an excellent opportunity to work at the intersection of genomics and machine learning, with a strong focus on practical impact.<br /><br />
+
+As part of this internship, the student will:<br />
+- Explore and evaluate alternative neural network architectures.  
+- Benchmark models on key metrics: read-level error rates, runtime, memory usage, and generalization.  
+- Perform detailed error analysis to identify which error types (e.g., homopolymer indels, substitutions, systematic biases) are most impacted.  
+- Investigate strategies for model improvement, such as:  
+  - Improved input representations and data augmentation.  
+  - Regularization and training techniques.  
+- Assess impact on downstream applications, especially genome assembly accuracy and contiguity.<br /><br />
+
+<strong>Expected Outcomes</strong><br />
+- Identification of promising architectures that reduce sequencing error rates.  
+- Deeper understanding of error patterns and their relationship to model design.  
+- Insights into how improved correction benefits genome assembly.<br /><br />
+
+<strong>Learning Opportunities for the Intern</strong><br />
+- Hands-on experience in applying deep learning to real genomic data.  
+- Exposure to benchmarking pipelines and large-scale biological datasets.  
+- Skills in model design, evaluation, and interpretation in a genomics context.<br /><br />
+
+<strong>Requirements</strong><br />
+- Familiarity with working in a terminal environment (bash).  
+- Familiarity with Python.  
+- Understanding of basic algorithms and data structures.  
+- Preferably, basic knowledge of machine learning and data science.<br /><br />
+
 </body>
 
-<body>
-  <h2>Project 5: Deep learning models for determination of the content of the maternally and paternally-derived chromosomes</h2>
-Genome assembly is procedure for reconstructing genomes from short sequenced DNA fragments in a manner similar to puzzle solving. The majority of de novo assemblers were designed on smaller genomes and work well on larger eukaryotic organisms, but most of them create haploid representations of the genome regardless of the ploidy (they collapse information from their parents). The separation of genetic material from each parent results in knowledge of the complete genotype – all variant forms of all genes. Therefore, different methods should be applied in the assembly process to achieve better reconstructions.<br /><br />
-  
-A student will work on various deep learning models based on convolutional neural networks or attention mechanism. The project will start with an approach similar to those used in Google’s Deep Variant model.<br /><br />
-  
-Requirements:<br />
-    -	Motivation<br />
-    -	Willingness to learn by doing<br />
-    -	Basic programming skills<br />
-    -	Prior knowledge in biology is not required<br />
-      <br />
-    Preferable skills (not required):<br />
-    -	Python<br />
-    -	Basic knowledge in probability and statistics, linear algebra and information theory<br />
-    -	Knowledge of PyTorch or another DL framework<br />
-    -	Basic knowledge in the machine and deep learning methods<br /><br />
-    </body>
 
 <body>
-  <h2>Project 6: AI method for vaccine design</h2>
-AI vaccine design process can be seen as selecting good fragments of the virus proteins, then constructing them together into a final vaccine. A fragment with multiple merits can be selected as a subunit of the final vaccine. 
-Proteins may be viewed as sequences of amino acid residues. However they can also be considered as graphs with its residues as nodes, with two nodes sharing an edge if their residues are spatially close.<br /><br />
-  
-A student will work on various deep learning models based on sequences (ie. attention mechanism) and graphs (graph neural network) for detection of fragments of proteins suitable to be a subunit of a vaccine.<br /><br />
-  
-Requirements:<br />
-    -	Motivation<br />
-    -	Willingness to learn by doing<br />
-    -	Basic programming skills<br />
-    -	Prior knowledge in biology is not required<br />
-      <br />
-    Preferable skills (not required):<br />
-    -	Python<br />
-    -	Basic knowledge in probability and statistics, linear algebra and information theory<br />
-    -	Knowledge of PyTorch or another DL framework<br />
-    -	Basic knowledge in the machine and deep learning methods<br /><br />
-    </body>
+<h2>Project D: Development of a Cancer Genome Foundation Model</h2>
 
-<body>
-  <h2>Project 7: Rapid diagnostic of infectious diseases using DNA sequencing and deep learning methods</h2>
-The fast and accurate detection of microbes which cause infections disease can reduce unnecessary usage of antibiotics, speed up recovery and sometime even save lives. The current methods, when we do not have a clue about possible pathogen, can last days. 
-The goal of the project is the development of the AI method for the detection of present microbes in a sample using nanopore sequencing. Nanopore sequencers read DNA/RNA fragments while they are passing through a tiny pore. This results in a signal which is converted to the sequence of nucleotides. <br /><br />
-  
-The project aims to recognize each microbe present in the sample using a pattern matching approach like those for song recognition, ie Shazam. Instead of signal processing as in Shazam, we plan to use AI methods to find a good succinct representation of each known microbe genome. A student will work with reseachers on building new deep learning methods based on self-supervised learning and attention based architecture.<br /><br />
-  
-Requirements:<br />
--	Motivation<br />
--	Willingness to learn by doing<br />
--	Basic programming skills<br />
--	Prior knowledge in biology is not required<br />
-  <br />
-Preferable skills (not required):<br />
--	Python<br />
--	Basic knowledge in probability and statistics, linear algebra and information theory<br />
--	Knowledge of PyTorch or another DL framework<br />
--	Basic knowledge in the machine and deep learning methods<br /><br />
+Compared with healthy genomes, cancer genomes are qualitatively different:
+they accumulate point mutations, copy-number shifts, structural
+rearrangements, and epigenetic rewiring. Yet most existing genome
+foundation models are trained on healthy or single-reference sequences, use a
+four-letter DNA alphabet, and operate on short windows. Thus, such models
+can miss long-range regulatory interactions and ignore methylation or
+chromatin accessibility signals that are central in cancer. This leaves a gap: we
+need models that read sequence and epigenome together, at scales large
+enough to span domains and rearrangements, while retaining single-
+nucleotide detail.<br /><br />
+
+This project builds a genome–epigenome foundation model that “reads”
+cancer DNA using a unified representation that captures base identity (A, C, G,
+T) together with methylation (5mC, 5hmC) and chromatin-state signals (open,
+closed) at single-nucleotide resolution, so it can learn how mutations and
+epigenetic rewiring jointly drive disease. The student will train sequence
+models that combine standard Transformers (strong local context and motif
+learning) with state-of-the-art sub-quadratic long-sequence alternatives (e.g.,
+Mamba, Hyena) to scale to chromosome-arm inputs while preserving single-
+nucleotide detail. A multi-scale regimen will pair long-range training with
+focused models on cancer-relevant regions (e.g., topologically associating
+domains), enabling the model to link point mutations, indels, methylation
+changes, accessibility marks, and structural breakpoints to regulatory
+consequences. The result is a practical, cancer-specific foundation model
+whose embeddings and variant scores flag disrupted enhancers/silencers,
+differentially methylated regions, and recurrent rearrangements that
+distinguish tumour types. <br /><br />
+
+<strong> Training Duration </strong><br />
+- 4 or 8 months
+<strong>Training plan and objectives</strong><br />
+- Literature review
+  - Survey long-context Transformers and sub-quadratic sequence
+models for genomics, study pros/cons, and context limits.
+  - Explore state-of-the-art methods on methylation and accessibility
+modelling, and their importance in cancer development.
+- Dataset collection and preparation
+  - Explore publicly available data (e.g., HG008 pancreatic cancer
+sequencing datasets), familiarize yourself with different
+sequencing technologies
+  - Process methylation and chromatin accessibility data, map them
+to the cancer genome assembly
+  - Define promoter/distal regions and TADs
+  - Implement the dataset tokenizer, define downstream tasks
+- Model development
+  - Implement a baseline short-window Transformer (masked-token /
+next-token objectives)
+  - Add long-context Transformer variants (sliding/sparse or
+kernel/linear attention), explore sub-quadratic alternatives
+(Mamba/Hyena) and diffusion language modelling.
+  - Integrate interpretability (SHAP / Integrated Gradients; attention
+summaries).
+- Training and optimization
+  - Train initial small-scale models
+  - Curriculum learning from promoters (±2 kb), to TAD windows, to
+chromosome-arm spans.
+  - Hyper-parameter sweeps, mixed precision, gradient
+checkpointing; early stopping by validation loss and calibration.
+  - Ablation studies: DNA-only vs unified representation of DNA,
+methylations, and chromatin accessibility.
+- Evaluation and benchmarking
+  - Evaluate against existing genome foundation models
+  - Reporting & Refinement
+  - Refine models and conduct robustness checks.
+  - Draft technical report and/or manuscript.
+  - Prepare presentations for lab and conference submissions.
+  - Fully document code and pipelines.
+<br /><br />
+
+
 </body>
+
