@@ -5,6 +5,7 @@ categories:
 tags:
 ---
 
+<br /><br />
 <body>
 <b>Job Title: AI Scientist – Generative AI Models for the Creation of RNA-Based Drugs </b> <br />
 Contract Period : 01/03/2026 – 01/03/2028 (extensions possible) <br /><br />
@@ -50,7 +51,7 @@ We look forward to receiving your application with the following documents: <br 
 We accept applications submitted via email directed to Prof. Šikić at <a href="mailto:mile_sikic@a-star.edu.sg">mile_sikic@a-star.edu.sg</a>. <br />
 </body>
 
-
+<br /><br />
 <body>
 <b>Job Title: Scientist – AI in Drug Discovery</b> <br />
 Contract Period: 01/03/2026 – 01/03/2028 (extensions possible) <br /><br />
@@ -97,6 +98,7 @@ We look forward to receiving your application with the following documents: <br 
 We accept applications submitted via email directed to Prof. Šikić at <a href="mailto:mile_sikic@a-star.edu.sg">mile_sikic@a-star.edu.sg</a>. <br />
 </body>
 
+<br /><br />
 <body>
 <b> Job Title: Scientist – Cancer genome reconstruction </b> <br />
 Contract Period: 01/03/2026 – 01/03/2028 (extensions possible) <br /><br />
