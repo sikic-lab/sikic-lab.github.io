@@ -32,7 +32,7 @@ We welcome applications from candidates with: <br />
 - Strong experience in Python programming and solid software engineering skills <br />
 - Experience with biomolecules and/or high-performance computing is a plus <br />
 - Interest in biology, biomolecules, or genomics (prior expertise not required) <br />
-- A structured, independent, proactive and collaborative working style <br /><br />
+- A structured, independent, proactive, and collaborative working style <br /><br />
 
 <b>We offer</b> <br />
 - A fully funded position with an internationally competitive salary <br />
