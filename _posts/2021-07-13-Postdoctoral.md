@@ -137,8 +137,6 @@ We accept applications submitted via email directed to Prof. Šikić at <a href=
 
 <body> <b> Job Title: Scientist – Cancer genome reconstruction </b> <br /> Contract Period: 01/06/2026 – 01/06/2028 (extensions possible) <br /><br />
 
-The Genome Institute of Singapore (GIS) is the national flagship for genomic sciences, driving cutting-edge research at the intersection of biology, engineering, and medicine. This position is offered in the Laboratory of AI in Genomics, led by Prof. Mile Šikić, which uses advanced bioinformatics and deep learning approaches to develop next-generation models for genomic data analysis. We are a group of computer scientists with a mission to improve healthcare using advanced deep learning models. Located in the heart of Singapore’s thriving biomedical hub, GIS offers a dynamic and collaborative environment, with close ties to world-class universities (NUS and NTU), pharmaceutical companies, and biotech start-ups. Joining our team means working on transformative projects with real-world impact, while benefiting from Singapore’s vibrant research ecosystem and strong support for innovation. <br /><br />
-
 <b>Project background</b> <br />
 De novo genome assembly has been one of the most challenging problems in genomics. However, with the development of new long-read sequencing technologies, new assemblers and manually curated high-quality benchmarks, including CHM13, HG002, and I002C, assembling most of human chromosomes T2T has become a routine task. <br /><br />
 
