@@ -95,6 +95,7 @@ We look forward to receiving your application with the following documents: <br 
 We accept applications submitted via email directed to Prof. Šikić at <a href="mailto:mile_sikic@a-star.edu.sg">mile_sikic@a-star.edu.sg</a>. <br />
 </body>
 
+
 <br /><br />
 <body>
 <b> Job Title: Scientist – Cancer genome reconstruction </b> <br />
@@ -137,44 +138,4 @@ We accept applications submitted via email directed to Prof. Šikić at <a href=
 <br /><br />
 
 
-
-<body>
-<b> Job Title: Scientist – Cancer genome reconstruction </b> <br />
-Contract Period: 01/06/2026 – 01/06/2028 (extensions possible) <br /><br />
-
-The Genome Institute of Singapore (GIS) is the national flagship for genomic sciences, driving cutting-edge research at the intersection of biology, engineering, and medicine. This position is offered in the Laboratory of AI in Genomics, led by Prof. Mile Šikić, which uses advanced bioinformatics and deep learning approaches to develop next-generation models for genomic data analysis. We are group a of computer scientist with a mission to improve healthcare using advance deep learning models. Located in the heart of Singapore’s thriving biomedical hub, GIS offers a dynamic and collaborative environment, with close ties to world-class universities (NUS and NTU), pharmaceutical companies, and biotech start-ups. Joining our team means working on transformative projects with real-world impact, while benefiting from Singapore’s vibrant research ecosystem and strong support for innovation.
-
-<b>Project background</b> <br />
-De novo genome assembly has been one of the most challenging problems in genomics. However, with the development of new long-read sequencing technologies, new assemblers and manually curated high quality benchmarks, including CHM13, HG002 and I002C, assembling most of human chromosomes T2T has become a routine task. <br /><br />
-
-This project will focus on a more challenging task, assembling human cancer genomes, which are especially difficult due to cancer genome heterogeneity. Using the fact that we can reconstruct normal tissue genomes routinely, we aim to reconstruct cancer genomes. <br /><br />
-
-<b>Job description</b> <br />
-We are looking for a highly motivated postdoctoral researcher to:
--	Being part of a team of wet lab and computational scientist aiming to reconstruct various types of cancer genomes and analyse their genome and epigenomes
--	Reconstruct various pairs of normal and cancer genomes using various types of reads (ie, long ONT and HiFi reads, Hi-C reads)
-
-<b>Profile</b> <br />
-We welcome applications from candidates with:
--	A PhD in computational biology or related fields
--	Proven experience in using de novo genome assemblers and visualization tools such as IGV
--	publication record at top-tier journals or bioinformatics conferences (i.e., Recomb, ISMB, EECB, and Genome Informatics)
-- Strong experience in Python programming
--	A structured, independent, proactive, and collaborative working style
-
-<b>We offer</b> <br />
--	A fully funded position with an internationally competitive salary
--	Professional development opportunities, including support for grant applications and participation in conferences and workshops
--	Access to state-of-the-art research infrastructure, including NSCC’s high-performance computing clusters
--	A dynamic, interdisciplinary, and collaborative research environment
--	The position is initially offered for two years, with the possibility of renewal
-
-<b>How to apply</b> <br />
-We look forward to receiving your application with the following documents:
--	Letter of Motivation
--	CV
--	Diplomas & Transcripts
-
-We accept applications submitted via email directed to Prof. Šikić at mile_sikic@a-star.edu.sg.
-</body>
 
