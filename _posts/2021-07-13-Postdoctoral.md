@@ -147,7 +147,7 @@ The Genome Institute of Singapore (GIS) is the national flagship for genomic sci
 <b>Project background</b> <br />
 De novo genome assembly has been one of the most challenging problems in genomics. However, with the development of new long-read sequencing technologies, new assemblers and manually curated high quality benchmarks, including CHM13, HG002 and I002C, assembling most of human chromosomes T2T has become a routine task. <br /><br />
 
-This project will focus on a more challenging task, assembling human cancer genomes, which are especially difficult due to cancer genome heterogeneity. Using the fact that we can reconstruct normal tissue genomes routinely we aim to reconstruct cancer genomes. <br /><br />
+This project will focus on a more challenging task, assembling human cancer genomes, which are especially difficult due to cancer genome heterogeneity. Using the fact that we can reconstruct normal tissue genomes routinely, we aim to reconstruct cancer genomes. <br /><br />
 
 <b>Job description</b> <br />
 We are looking for a highly motivated postdoctoral researcher to:
