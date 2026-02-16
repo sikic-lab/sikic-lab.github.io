@@ -1,6 +1,6 @@
 ---
 title: "Postdoctoral Positions"
-date: 2025-12-02
+date: 2026-16-02
 categories:
 tags:
 ---
@@ -9,7 +9,7 @@ The Genome Institute of Singapore (GIS) is the national flagship for genomic sci
 <br /><br />
 <body>
 <b>Job Title: AI Scientist – Generative AI Models for the Creation of RNA-Based Drugs </b> <br />
-Contract Period : 01/03/2026 – 01/03/2028 (extensions possible) <br /><br />
+Contract Period : 01/06/2026 – 01/06/2028 (extensions possible) <br /><br />
 
 <b>Project background</b> <br />
 Messenger RNA (mRNA)-based therapeutics, including vaccines, represent a transformative class of drugs for infectious diseases and cancer immunotherapy. Their programmable nature allows rapid adaptation to evolving pathogens and personalized medicine, but effective design of mRNA molecules remains a key bottleneck. Current development relies on trial-and-error methods, leading to long timelines, high costs, and suboptimal outcomes. <br /><br />
@@ -53,7 +53,7 @@ We accept applications submitted via email directed to Prof. Šikić at <a href=
 <br /><br />
 <body>
 <b>Job Title: Scientist – AI in Drug Discovery</b> <br />
-Contract Period: 01/03/2026 – 01/03/2028 (extensions possible) <br /><br />
+Contract Period: 01/06/2026 – 01/06/2028 (extensions possible) <br /><br />
 
 <b>Project background</b> <br />
 The AI in drug discovery (AIDD) project focuses on developing innovative tools and technologies to accelerate drug discovery, with a particular emphasis on unlocking new druggable spaces, such as RNA-targeting molecules, for example. With AI-driven strategies, AIDD aims to accelerate target identification to lead discovery while also advancing novel small molecules and other therapeutic modalities for next-generation drug development. <br /><br />
@@ -98,7 +98,7 @@ We accept applications submitted via email directed to Prof. Šikić at <a href=
 <br /><br />
 <body>
 <b> Job Title: Scientist – Cancer genome reconstruction </b> <br />
-Contract Period: 01/03/2026 – 01/03/2028 (extensions possible) <br /><br />
+Contract Period: 01/06/2026 – 01/06/2028 (extensions possible) <br /><br />
 
 <b>Project background</b> <br />
 De novo genome assembly has been one of the most challenging problems in genomics. However, with development of new long read sequencing technologies, new assemblers and manually curated high quality benchmarks including CHM13, HG002 and I002C assembling most of human chromosomes T2T has become a routine task. <br /><br />
@@ -116,6 +116,46 @@ We welcome applications from candidates with: <br />
 - Proven experience in algorithms on genome sequences and graphs <br />
 - Publication record at top-tier journals or bioinformatics conferences (i.e. Recomb, ISMB, EECB and Genome Informatics) <br />
 - Strong experience in C/C++/Rust and Python programming and solid software engineering skills <br />
+- A structured, independent, proactive and collaborative working style <br /><br />
+
+<b>We offer</b> <br />
+- A fully funded position with an internationally competitive salary <br />
+- Professional development opportunities, including support for grant applications and participation in conferences and workshops <br />
+- Access to state-of-the-art research infrastructure, including NSCC’s high-performance computing clusters <br />
+- A dynamic, interdisciplinary, and collaborative research environment <br />
+- The position is initially offered for two years, with the possibility of renewal <br /><br />
+
+<b>How to apply</b> <br />
+We look forward to receiving your application with the following documents: <br />
+- Letter of Motivation <br />
+- CV <br />
+- Diplomas & Transcripts <br /><br />
+
+We accept applications submitted via email directed to Prof. Šikić at <a href="mailto:mile_sikic@a-star.edu.sg">mile_sikic@a-star.edu.sg</a>. <br />
+</body>
+
+<body>
+<b> Job Title: Scientist – Cancer genome reconstruction </b> <br />
+Contract Period: 01/06/2026 – 01/06/2028 (extensions possible) <br /><br />
+
+The Genome Institute of Singapore (GIS) is the national flagship for genomic sciences, driving cutting-edge research at the intersection of biology, engineering, and medicine. This position is offered in the Laboratory of AI in Genomics, led by Prof. Mile Šikić, which uses advanced bioinformatics and deep learning approaches to develop next-generation models for genomic data analysis. We are group a of computer scientist with a mission to improve healthcare using advance deep learning models. Located in the heart of Singapore’s thriving biomedical hub, GIS offers a dynamic and collaborative environment, with close ties to world-class universities (NUS and NTU), pharmaceutical companies, and biotech start-ups. Joining our team means working on transformative projects with real-world impact, while benefiting from Singapore’s vibrant research ecosystem and strong support for innovation. <br /><br />
+
+<b>Project background</b> <br />
+De novo genome assembly has been one of the most challenging problems in genomics. However, with development of new long read sequencing technologies, new assemblers and manually curated high quality benchmarks including CHM13, HG002 and I002C assembling most of human chromosomes T2T has become a routine task. <br /><br />
+
+This project will focus on a more challenging task, assembling of human cancer genomes which are especially difficult due to cancer genome heterogeneity. Using the fact that we can reconstruct normal tissue genomes routinely we aim to reconstruct cancer genomes. <br /><br />
+
+<b>Job description</b> <br />
+We are looking for a highly motivated postdoctoral researcher to: <br />
+- Being part of team of wet lab and computational scientist aiming to reconstruct various types of cancer genomes and analyse their genome and epigenome <br />
+- Reconstruct various pairs of normal and cancer genomes using various types of reads (ie. long ONT and HiFi reads, Hi-C reads) <br /><br />
+
+<b>Profile</b> <br />
+We welcome applications from candidates with: <br />
+- A PhD in computational biology or related fields <br />
+- Proven experience in using de novo genome assemblers and visualization tools such as IGV <br />
+- Publication record at top-tier journals or bioinformatics conferences (i.e. Recomb, ISMB, EECB and Genome Informatics) <br />
+- Strong experience in Python programming <br />
 - A structured, independent, proactive and collaborative working style <br /><br />
 
 <b>We offer</b> <br />
